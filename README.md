@@ -2,9 +2,7 @@
 
 Hello and Welcome to Peggy Tadi's VBA Challenge.
 
-You might notice that this Git repository is full of different files but the main ones are alphabetical_testing -Peggy Tadi, Multiple_year_stock_data - Peggy Tadi and VBA Script
-
-The VBA Script doc is txt doc as I was not able to create a vbs file.
+The VBA Script.txt contains the main macro, VBAChallenge, and, the Delete_and_Start_Over macro that I ran each time I needed to clear  all the sheets and rerun my main macro. However the VBA Script.vbs only contains the main macro, VBAChallenge, on which we are being tested.
 
 Reference of the formulas in the script that we never learned in class:
 ws.Range("M1:W1").Columns.AutoFit https://learn.microsoft.com/en-us/office/vba/api/excel.range.autofit
