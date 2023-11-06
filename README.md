@@ -2,7 +2,9 @@
 
 Hello and Welcome to Peggy Tadi's VBA Challenge.
 
-You might notice that this Git repository is full of different files but the main ones are alphabetical_testing -Peggy Tadi and Multiple_year_stock_data - Peggy Tadi
+You might notice that this Git repository is full of different files but the main ones are alphabetical_testing -Peggy Tadi, Multiple_year_stock_data - Peggy Tadi and VBA Script
+
+The VBA Script doc is txt doc as I was not able to create a vbs file.
 
 Reference of the formulas in the script that we never learned in class:
 ws.Range("M1:W1").Columns.AutoFit https://learn.microsoft.com/en-us/office/vba/api/excel.range.autofit
